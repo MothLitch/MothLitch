@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @MothLitch
 - 👀 I’m interested in playing games experiencing new worlds and all events that come with them
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning anything of interest
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 <!---
 MothLitch/MothLitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
